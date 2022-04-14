@@ -2,7 +2,7 @@
 
 Project developed in the Front-end Module at the [Trybe](https://www.betrybe.com/) course.
 
-This project goal was create tests using `RTL`. The application was provided by [Trybe](https://www.betrybe.com/).
+This project goal was create tests using `RTL`.
 ---
 <br/>
 
@@ -27,3 +27,4 @@ This project goal was create tests using `RTL`. The application was provided by 
 &nbsp;
 
 All [Trybe](https://www.betrybe.com/) projects use `linters`, `Git` and `GitHub`.
+The application in which the tests were developed was provided by [Trybe](https://www.betrybe.com/).
