@@ -1,8 +1,8 @@
 # REACT TESTING LIBRARY PROJECT 🧪
 
-Project developed in the Front-end Module at [Trybe](https://www.betrybe.com/) course.
+Project developed in the Front-end Module at the [Trybe](https://www.betrybe.com/) course.
 
-This project goal was create tests using `RTL`.
+This project goal was create tests using `RTL`. The application was provided by [Trybe](https://www.betrybe.com/).
 ---
 <br/>
 
