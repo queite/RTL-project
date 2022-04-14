@@ -26,5 +26,5 @@ This project goal was create tests using `RTL`.
 
 &nbsp;
 
-All [Trybe](https://www.betrybe.com/) projects use `linters`, `Git` and `GitHub`.
+All [Trybe](https://www.betrybe.com/) projects use `linters`, `Git` and `GitHub`.<br/>
 The application in which the tests were developed was provided by [Trybe](https://www.betrybe.com/).
